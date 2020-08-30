@@ -1,2 +1,2 @@
 # 1p3a-scraper
-get data from 1p3a
+Scraped discussion post from 1p3a and analyzed current job Tech market.
